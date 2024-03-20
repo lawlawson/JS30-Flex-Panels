@@ -1,8 +1,8 @@
-# JavaScript30 Drum Machine
+# Flex Panels Image Gallery
 
-This project is a part of the JavaScript30 challenge by Wes Bos, where participants build 30 different projects using only HTML, CSS, and vanilla JavaScript. In this particular project, we've created a drum machine where users can play various drum sounds by pressing corresponding keys on their keyboard.
+This project is a part of the JavaScript30 challenge by Wes Bos, where participants build 30 different projects using only HTML, CSS, and vanilla JavaScript. In this particular project, we created and image gallery with 5 image panels that change size when the user clicks on each individual one to reveal the image and hide/unhide text.
 
-![drum kit screenshot](/screenshot.png)
+![Flex Panels Image Gallery](/screenshot.png)
 
 ## Table of Contents
 
