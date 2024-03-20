@@ -14,13 +14,11 @@ This project is a part of the JavaScript30 challenge by Wes Bos, where participa
 
 ## Demo
 
-[View Demo](https://heartfelt-heliotrope-c6a879.netlify.app/) <!-- Add a link to your live demo once deployed -->
+[View Demo]() <!-- Add a link to your live demo once deployed -->
 
 ## Features
 
-- Play drum sounds by pressing corresponding keys or clicking drum pads
-- Cross-browser compatibility
-- Easy to understand and extend with vanilla JavaScript
+- CSS & JavaScript functionality to reveal images and text using animation upon click.
 
 ## Getting Started
 
@@ -33,21 +31,21 @@ This project is a part of the JavaScript30 challenge by Wes Bos, where participa
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/JS30-drum-kit.git
+git clone https://github.com/lawlawson/JS30-Flex-Panels.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd JS30-drum-kit
+cd JS30-Flex-Panels
 ```
 
 3. Open `index.html` in your preferred browser.
 
 ## How to Use
 
-1. Press keys corresponding to the displayed drum pads or click on the pads using the mouse.
-2. Enjoy the various drum sounds!
+1. Click on a panel to hide or unhide the image and text.
+2. Enjoy the image and meaningful text.
 
 ## Contributing
 
